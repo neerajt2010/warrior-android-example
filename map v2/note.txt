@@ -1,0 +1,29 @@
+==========================
+Practical exercise: Note
+==========================
+
+ Hi sir,
+	I have implement both screen given in practical exercise. 
+		 List of concepts I have used in this exercise are: 
+	             1. Android theme and style
+				 2. animation
+				 3. Async Task
+				 4. saving data state during configuration change
+				 5. Externalization
+				 6. Google map v2 
+				 7. Json parsing using Gson library
+		
+		Some other approaches  that could have used are 
+	
+			1. Use of JODA lib for date manipulation.
+			2. Use of Support v4/v7 lib for background compatibility.
+			3. Use of fragments.
+			4. Adding functionality for Location aware 
+
+
+Please find screen shots, apk and code in shared folder. 			
+			
+			
+			
+			
+
